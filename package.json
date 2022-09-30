@@ -19,7 +19,7 @@
     "license": "none",
     "author": "BoneShooter",
     "dependencies": {
-        "@hapi/boom": "^7.4.2",
+        "@hapi/boom": "^7.4.11",
         "koa": "^2.7.0",
         "koa-body": "^4.1.0",
         "koa-compose": "^4.1.0",
